@@ -1,2 +1,2 @@
-# imgage
+# image
 图床
